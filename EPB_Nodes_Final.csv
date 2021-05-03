@@ -1,0 +1,70 @@
+SpeciesID,System,StageID,Stage,WorkingName,OrganismalGroup,NodeType
+4,EPB,1,adult,Saltwort,vascular plant,taxon
+6,EPB,1,adult,epipellic flora,microphytobenthos,taxon
+7,EPB,1,adult,Alkali Heath,vascular plant,taxon
+8,EPB,1,adult,Fleshy Jaumea,vascular plant,taxon
+9,EPB,1,adult,California Sea Lavender,vascular plant,taxon
+10,EPB,1,adult,macroalgae,macroalgae,taxon
+11,EPB,1,adult,Shore Grass,vascular plant,taxon
+12,EPB,1,adult,phytoplankton,vascular plant,taxon
+14,EPB,1,adult,Annual Pickleweed,vascular plant,taxon
+16,EPB,1,adult,Pickleweed,vascular plant,taxon
+17,EPB,1,adult,California Cordgrass,vascular plant,taxon
+30,EPB,2,larva,ctenodrilid,annelid,life stage
+33,EPB,2,larva,Neanthes,annelid,life stage
+49,EPB,1,adult,brown cucumber,holothurian,taxon
+55,EPB,1,adult,phoronid,phoronid,taxon
+57,EPB,1,adult,white cucumber,holothurian,taxon
+59,EPB,1,adult,Chione californiensis,bivalve,life stage
+60,EPB,1,adult,Chione fluctifraga,bivalve,life stage
+61,EPB,1,adult,California Softshell Clam,bivalve,life stage
+62,EPB,2,larva,Ribbed Mussel,bivalve,life stage
+63,EPB,1,adult,Pacific Eggcockle,bivalve,life stage
+64,EPB,1,adult,Bent-nosed Clam,bivalve,life stage
+68,EPB,1,adult,Pacific Littleneck Clam,bivalve,life stage
+69,EPB,2,larva,Protothaca?,bivalve,life stage
+71,EPB,1,adult,Fat Jackknife Clam,bivalve,life stage
+73,EPB,1,adult,Lesser Tagelus,bivalve,life stage
+74,EPB,1,adult,unk bivalve,bivalve,life stage
+75,EPB,1,adult,Acteocina inculta,snail,taxon
+76,EPB,1,adult,California Assiminea,snail,taxon
+78,EPB,1,adult,Cloudy Bubble Snail,snail,taxon
+79,EPB,1,adult,California Horn Snail,snail,taxon
+80,EPB,1,adult,Paper Bubble Snail,snail,taxon
+82,EPB,1,adult,Salt Marsh Snail,snail,taxon
+83,EPB,1,adult,Nassarius tegula,snail,taxon
+95,EPB,1,adult,gammaridean,amphipod,taxon
+109,EPB,1,adult,Salt Marsh Hopper,amphipod,taxon
+111,EPB,1,adult,Calfornia Ghost Shrimp,burrowing shrimp,taxon
+112,EPB,1,adult,Southern Mud Shrimp,burrowing shrimp,taxon
+113,EPB,1,adult,Green Shore Crab,crab,taxon
+114,EPB,1,adult,Striped Shore Crab,crab,taxon
+115,EPB,1,adult,Fiddler Crab,crab,taxon
+117,EPB,1,adult,Californian Anchovy,fish,taxon
+121,EPB,1,adult,California Killifish,fish,taxon
+123,EPB,1,adult,Opaleye,fish,taxon
+125,EPB,1,adult,Diamond Turbot,fish,taxon
+132,EPB,1,adult,California Halibut,fish,taxon
+133,EPB,1,adult,Spotted Sandbass,fish,taxon
+141,EPB,1,adult,American Avocet,bird,taxon
+145,EPB,1,adult,American Wigeon,bird,taxon
+146,EPB,1,adult,Black-bellied Plover,bird,taxon
+147,EPB,1,adult,Black-crowned Night Heron,bird,taxon
+152,EPB,1,adult,Brant,bird,taxon
+157,EPB,1,adult,California Gull,bird,taxon
+158,EPB,1,adult,Caspian Tern,bird,taxon
+159,EPB,1,adult,Cinnamon Teal,bird,taxon
+165,EPB,1,adult,Eared Grebe,bird,taxon
+174,EPB,1,adult,Killdeer,bird,taxon
+179,EPB,1,adult,Lesser Scaup,bird,taxon
+182,EPB,1,adult,Mallard,bird,taxon
+186,EPB,1,adult,Osprey,bird,taxon
+190,EPB,1,adult,Red-breasted Merganser,bird,taxon
+197,EPB,1,adult,Semipalmated Plover,bird,taxon
+350,EPB,NA,NA,wave attenuation,service,service
+450,EPB,NA,NA,shoreline stabilization,service,service
+550,EPB,NA,NA,carbon sequestration,service,service
+650,EPB,NA,NA,water filtration,service,service
+750,EPB,NA,NA,fishery,service,service
+850,EPB,NA,NA,birdwatching,service,service
+950,EPB,NA,NA,waterfowl hunting,service,service

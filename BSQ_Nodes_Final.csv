@@ -1,0 +1,107 @@
+SpeciesID,System,StageID,Stage,WorkingName,OrganismalGroup,NodeType
+4,BSQ,1,adult,Saltwort,vascular plant,taxon
+6,BSQ,1,adult,epipellic flora,microphytobenthos,taxon
+7,BSQ,1,adult,Alkali Heath,vascular plant,taxon
+8,BSQ,1,adult,Fleshy Jaumea,vascular plant,taxon
+10,BSQ,1,adult,macroalgae,macroalgae,taxon
+11,BSQ,1,adult,Shore Grass,vascular plant,taxon
+12,BSQ,1,adult,phytoplankton,vascular plant,taxon
+14,BSQ,1,adult,Annual Pickleweed,vascular plant,taxon
+15,BSQ,1,adult,Parish's Pickleweed,vascular plant,taxon
+16,BSQ,1,adult,Pickleweed,vascular plant,taxon
+17,BSQ,1,adult,California Cordgrass,vascular plant,taxon
+18,BSQ,1,adult,Suaeda,vascular plant,taxon
+19,BSQ,1,adult,Arrowgrass,vascular plant,taxon
+20,BSQ,1,adult,Eelgrass,vascular plant,taxon
+21,BSQ,1,adult,foraminiferan,protist,taxon
+24,BSQ,1,adult,annelid unknown (green saccate thin skin),annelid,life stage
+25,BSQ,1,adult,Capitella capitata,annelid,life stage
+26,BSQ,2,larva,capitellid?,annelid,life stage
+29,BSQ,2,larva,Cirriformia spirabrancha,annelid,life stage
+34,BSQ,2,larva,"Neanthes ""arenaceodentata""",annelid,life stage
+36,BSQ,2,larva,brown hesionid,annelid,life stage
+37,BSQ,2,larva,poly unk (brwn setae ant third),annelid,life stage
+38,BSQ,2,larva,"orbiniid, pointed prostomium",annelid,life stage
+39,BSQ,2,larva,Naineris,annelid,life stage
+40,BSQ,2,larva,poly unk B (4 prost. tents),annelid,life stage
+41,BSQ,2,larva,poly unk B (lg green),annelid,life stage
+42,BSQ,2,larva,"poly unk(""fuzzy dorsum"")",annelid,life stage
+43,BSQ,2,larva,Polydora sp.,annelid,life stage
+45,BSQ,1,adult,spionid,annelid,life stage
+48,BSQ,1,adult,anthozoan,anthozoan,taxon
+53,BSQ,1,adult,nemertean,nemertean,taxon
+54,BSQ,1,adult,ophiuroid,ophiuroid,taxon
+66,BSQ,1,adult,Blue Mussel,bivalve,life stage
+75,BSQ,1,adult,Acteocina inculta,snail,taxon
+76,BSQ,1,adult,California Assiminea,snail,taxon
+77,BSQ,1,adult,Four-Threaded Bittium,snail,taxon
+79,BSQ,1,adult,California Horn Snail,snail,taxon
+82,BSQ,1,adult,Salt Marsh Snail,snail,taxon
+88,BSQ,1,adult,Coleopteran,beetle,taxon
+89,BSQ,1,adult,corophiid?,amphipod,taxon
+91,BSQ,1,adult,cumacean,cumacean,taxon
+92,BSQ,1,adult,cyclopoid copepod,copepod,taxon
+94,BSQ,2,larva,Ephydra,dipteran,life stage
+96,BSQ,1,adult,gammaridean (red eye),amphipod,taxon
+97,BSQ,1,adult,gammaridean (red striped antennae),amphipod,taxon
+98,BSQ,1,adult,gammaridean A (BSQc3),amphipod,taxon
+100,BSQ,1,adult,harpacticoid,copepod,taxon
+101,BSQ,1,adult,Nebalia sp.,leptostracan,taxon
+103,BSQ,1,adult,ostracod,ostracod,taxon
+104,BSQ,1,adult,ostracod-planktonic,ostracod,taxon
+105,BSQ,1,adult,Paracerceis sp.,isopod,taxon
+107,BSQ,1,adult,staphylinid,beetle,taxon
+108,BSQ,1,adult,tanaidacean,tanaidacean,taxon
+109,BSQ,1,adult,Salt Marsh Hopper,amphipod,taxon
+110,BSQ,1,adult,Salt Marsh Water Boatman,water boatman,taxon
+111,BSQ,1,adult,Calfornia Ghost Shrimp,burrowing shrimp,taxon
+114,BSQ,1,adult,Striped Shore Crab,crab,taxon
+118,BSQ,1,adult,Topsmelt,fish,taxon
+119,BSQ,1,adult,Arrow Goby,fish,taxon
+121,BSQ,1,adult,California Killifish,fish,taxon
+122,BSQ,1,adult,Long-jawed Mudsucker,fish,taxon
+125,BSQ,1,adult,Diamond Turbot,fish,taxon
+128,BSQ,1,adult,Mullet,fish,taxon
+130,BSQ,1,adult,Sicklefin Smoothhound,elasmobranch,taxon
+131,BSQ,1,adult,California Bat Ray,elasmobranch,taxon
+134,BSQ,1,adult,Thornback Ray,elasmobranch,taxon
+136,BSQ,1,adult,Shadow Goby,fish,taxon
+137,BSQ,1,adult,Shovelnose Guitarfish,elasmobranch,taxon
+138,BSQ,1,adult,Pipefish,fish,taxon
+140,BSQ,1,adult,Haller's Round Ray,elasmobranch,taxon
+145,BSQ,1,adult,American Wigeon,bird,taxon
+146,BSQ,1,adult,Black-bellied Plover,bird,taxon
+147,BSQ,1,adult,Black-crowned Night Heron,bird,taxon
+148,BSQ,1,adult,Belted Kingfisher,bird,taxon
+152,BSQ,1,adult,Brant,bird,taxon
+156,BSQ,1,adult,Cattle Egret,bird,taxon
+157,BSQ,1,adult,California Gull,bird,taxon
+158,BSQ,1,adult,Caspian Tern,bird,taxon
+162,BSQ,1,adult,Common Loon,bird,taxon
+164,BSQ,1,adult,Dunlin,bird,taxon
+166,BSQ,1,adult,Elegant Tern,bird,taxon
+167,BSQ,1,adult,Forster's Tern,bird,taxon
+168,BSQ,1,adult,Great Blue Heron,bird,taxon
+169,BSQ,1,adult,Great Egret,bird,taxon
+171,BSQ,1,adult,Greater Scaup,bird,taxon
+172,BSQ,1,adult,Greater Yellowlegs,bird,taxon
+176,BSQ,1,adult,Long-billed Dowitcher,bird,taxon
+178,BSQ,1,adult,Least Sandpiper,bird,taxon
+185,BSQ,1,adult,Northern Pintail,bird,taxon
+186,BSQ,1,adult,Osprey,bird,taxon
+187,BSQ,1,adult,Pied-billed Grebe,bird,taxon
+189,BSQ,1,adult,Ring-billed Gull,bird,taxon
+190,BSQ,1,adult,Red-breasted Merganser,bird,taxon
+191,BSQ,1,adult,Reddish Egret,bird,taxon
+192,BSQ,1,adult,Red Knot,bird,taxon
+193,BSQ,1,adult,Royal Tern,bird,taxon
+198,BSQ,1,adult,Snowy Egret,bird,taxon
+203,BSQ,1,adult,Tricolored Heron,bird,taxon
+207,BSQ,1,adult,Western Sandpiper,bird,taxon
+208,BSQ,1,adult,Whimbrel,bird,taxon
+350,BSQ,NA,NA,wave attenuation,service,service
+450,BSQ,NA,NA,shoreline stabilization,service,service
+550,BSQ,NA,NA,carbon sequestration,service,service
+650,BSQ,NA,NA,water filtration,service,service
+850,BSQ,NA,NA,birdwatching,service,service
+950,BSQ,NA,NA,waterfowl hunting,service,service
