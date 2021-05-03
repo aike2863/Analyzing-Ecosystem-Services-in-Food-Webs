@@ -7,7 +7,6 @@
 library(igraph)
 library(dplyr)
 library(NetIndices)
-library(ggplot2)
 library(plyr)
 
 
@@ -39,8 +38,8 @@ epb.edges <- epb.edges[,-1] #Remove column 1
 ## Process data so that you have an edge list and node list for each salt marsh with both species and 
 ## services
 
-colnames(edges)[colnames(edges)=="ï..ResourceSpeciesID"] <- "ResourceSpeciesID" #fix column name
-colnames(species)[colnames(species)=="ï..SpeciesID"] <- "SpeciesID" #fix column name
+colnames(edges)[colnames(edges)=="Ã¯..ResourceSpeciesID"] <- "ResourceSpeciesID" #fix column name
+colnames(species)[colnames(species)=="Ã¯..SpeciesID"] <- "SpeciesID" #fix column name
 
 # CSM
 # interactions
